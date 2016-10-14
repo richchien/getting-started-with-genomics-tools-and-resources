@@ -182,9 +182,16 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
+### handling arguments at the command line
+
+* [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
+* [python version](http://docopt.org/)
+
 ### visualization in general
 
 * [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+* [A tutorial for the free Inkscape cross-platform vector graphics editor](https://github.com/fredhutchio/inkscape-tutorial)
+* [gimp](https://www.gimp.org/downloads/) for bit-map based figures.
 
 ### python tips and tools
 
